@@ -1,0 +1,10 @@
+Deep Learning Project from Scratch
+
+
+Picking up a good dataset
+-  Should not be a toy/standard dataset (MNIST, Titanic, CIFAR10)
+-  Should be large enough (>1000 images)
+-  Should have enough variety (should not be a straight forward problem)
+-  It should be possible to build a good model
+-  Should not be too large (<5 GB)
+       -  Exception: pick a 10% or 1% samples
